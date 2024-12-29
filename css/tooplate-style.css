@@ -1,11 +1,11 @@
 html {
   overflow-x: hidden;
 }
-
+background-image: url(https://ik.imagekit.io/nashlancrew/Si%20quieres,%20puedes%20an%CC%83adir%20aqui%CC%81%20un%20recuerdo%20de%20tus%20an%CC%83os%2020%20_Recuerda%20que%20esto%20es%20con%20fines%20acade%CC%81micos.%20En%20caso%20de%20ser%20an%CC%83adido%20este%20fanzine%20al%20portfolio,%20la%20persona%20involucrada%20seri%CC%81a%20contactada%20para%20el%20uso%20de%20sus%20datos%20personales.%20(File%20responses)/fotos%2020's%20Archive.jpg?updatedAt=1735495232930);
 body {
   margin: 0;
   padding: 0;
-  font-family: "Source Sans Pro", sans-serif;
+  font-family: "Archivo", sans-serif;
   font-size: 18px;
   line-height: 2em;
   overflow-x: hidden;
@@ -112,7 +112,7 @@ button {
 
 input,
 textarea {
-  font-family: "Source Sans Pro", sans-serif;
+  font-family: "Fraunces", sans-serif;
   font-size: 1rem;
   background: transparent;
   border: 0;
@@ -280,7 +280,7 @@ address {
   margin-bottom: 80px;
 }
 .tm-bgcolor-1 {
-  background-color: #f96699;
+  background-color: #09099f;
 }
 .tm-bgcolor-2 {
   background-color: #38cccc;
