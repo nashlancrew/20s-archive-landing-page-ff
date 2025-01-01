@@ -1,7 +1,6 @@
 html {
   overflow-x: hidden;
 }
-background-image: url(https://ik.imagekit.io/nashlancrew/Si%20quieres,%20puedes%20an%CC%83adir%20aqui%CC%81%20un%20recuerdo%20de%20tus%20an%CC%83os%2020%20_Recuerda%20que%20esto%20es%20con%20fines%20acade%CC%81micos.%20En%20caso%20de%20ser%20an%CC%83adido%20este%20fanzine%20al%20portfolio,%20la%20persona%20involucrada%20seri%CC%81a%20contactada%20para%20el%20uso%20de%20sus%20datos%20personales.%20(File%20responses)/fotos%2020's%20Archive.jpg?updatedAt=1735495232930);
 body {
   margin: 0;
   padding: 0;
@@ -14,15 +13,15 @@ body {
 a {
   text-decoration: none;
   transition: all 0.3s ease;
-  color: #38cccc;
+  color: #7294f1;
 }
 
 a:hover {
-  color: #30adad;
+  color: #384d89;
 }
 
 .tm-about-text a {
-  color: #9f6;
+  color: #1a2134;
 }
 
 h1,
@@ -162,18 +161,18 @@ textarea {
 }
 
 .tm-social-link i {
-  color: #99cccc;
+  color: #09099f;
   transition: all 0.3s ease;
 }
 
 .tm-social-link:hover i.fa-facebook {
-  color: #3b5998;
+  color: #09099f;
 }
 .tm-social-link:hover i.fa-twitter {
-  color: #00acee;
+  color: #09099f;
 }
 .tm-social-link:hover i.fa-instagram {
-  color: #3f729b;
+  color: #09099f;
 }
 .tm-flex {
   display: flex;
@@ -195,7 +194,7 @@ address {
 }
 
 .filters-button-group li a.active {
-  color: #f96699;
+  color: #09099f;
 }
 .tm-gallery {
   margin: -10px;
@@ -212,7 +211,7 @@ address {
   position: absolute;
   bottom: 0;
   left: 0;
-  background-color: #0062ff;
+  background-color: #09099f;
   color: #fff;
   width: 100%;
   height: 100%;
@@ -303,10 +302,10 @@ address {
   background-color: #09099f;
 }
 .tm-bgcolor-2 {
-  background-color: #38cccc;
+  background-color: #09099f;
 }
 .tm-bgcolor-3 {
-  background-color: #99cccc;
+  background-color: #09099f;
 }
 .tm-border-rounded {
   border-radius: 15px;
