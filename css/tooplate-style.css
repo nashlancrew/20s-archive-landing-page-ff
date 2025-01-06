@@ -369,3 +369,9 @@ address {
 .tm-gallery-section::-webkit-scrollbar-thumb {
   background: #ccc; /* Color del scrollbar */
 }
+.github-logo {
+  height: 20px; /* Ajusta el tamaño del logo */
+  width: auto; /* Mantén la proporción del logo */
+  margin-right: 8px; /* Añade un poco de espacio a la derecha */
+  vertical-align: middle; /* Alinea el logo verticalmente con el texto */
+}
