@@ -9,5 +9,6 @@
 - Cool ful screen image viewer
 - Comprehensive footer
 - Spotify playlist :)
+- fontawesome icons
 
 - Congratullatios! 
